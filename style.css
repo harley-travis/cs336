@@ -1,0 +1,81 @@
+/************** STYLESHEET *************/
+
+.btn-primary,
+.btn-danger{
+    width: 100%;
+}
+input {
+    width: 100% !important;
+}
+
+body{
+    background: #eee !important;
+}
+.the-header {
+    border-bottom: 1px solid #eee;
+    padding: 20px 0 100px 0;
+}
+nav{
+    padding: 20px 0 20px 0;
+}
+.img-logo{
+    width: 100%;
+    max-width: 500px;
+}
+.content-wrapper,
+.ll-wrapper,
+.add-card,
+#main{
+    background: #fff;
+}
+.view-heading-bar {
+    height: 70px;
+}
+.add-new {
+    padding-top: 20px;
+    font-size: 2rem;
+}
+.add-new a{
+    color: green;
+}
+glyp-plus {
+    font-size: 4rem;
+    color: green;
+    vertical-align: middle;
+}
+.cards {
+    background-color: #eee;
+    margin: 10px;
+    height: 180px;
+    border-radius: 5px 5px 5px 5px;
+}
+.card-header {
+    border-bottom: 1px solid #ddd;
+}
+span.rentDay {
+    color: green;
+    font-weight: 900;
+}
+.add-new-card {
+    padding: 60px;
+    font-size: 4rem;
+    text-align: center;
+}
+a.new-card:hover {
+    text-decoration: none;
+}
+.card-options{
+    list-style: none;
+    display: inline-block;
+}
+.rentDue {
+    text-align: right;
+    padding-top: 20px;
+}
+.glyp{
+    padding-right: 5px;
+}
+
+
+footer{
+}
