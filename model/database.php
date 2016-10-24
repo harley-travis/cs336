@@ -1,7 +1,8 @@
 <?php
-    $dsn = 'mysql:host=mysql.rentercafe.com;dbname=rentercafe_database';
-    $username = 'travistest';
-    $password = 'welcome1234';
+// not real login information. nice try suckas
+    $dsn = 'mysql:host=mysql.DOMAINNAME.com;dbname=NAME_OF_DATABASE';
+    $username = 'username';
+    $password = 'password';
 
     try {
         $db = new PDO($dsn, $username, $password);
